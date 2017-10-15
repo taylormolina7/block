@@ -1,6 +1,6 @@
-using ImageView, Images   # TestImages  just a reminder poop stinks!
+using ImageView, Images   
 #
-#img = load("/home/travis/Documents/Mael Engine/sprites/cloud.png")
+
 cloud = load("/home/travis/Documents/Mael Engine/sprites/cloud.png")
 cloud2 = load("/home/travis/Documents/Mael Engine/sprites/cloud2.png")
 LeftPlayer = load("/home/travis/Documents/Mael Engine/sprites/leftplayer.png")
